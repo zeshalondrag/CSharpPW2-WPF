@@ -1,0 +1,23 @@
+C:\Users\yaney\source\repos\Daily planner\Daily planner\bin\Debug\net8.0-windows\Daily planner.exe
+C:\Users\yaney\source\repos\Daily planner\Daily planner\bin\Debug\net8.0-windows\Daily planner.deps.json
+C:\Users\yaney\source\repos\Daily planner\Daily planner\bin\Debug\net8.0-windows\Daily planner.runtimeconfig.json
+C:\Users\yaney\source\repos\Daily planner\Daily planner\bin\Debug\net8.0-windows\Daily planner.dll
+C:\Users\yaney\source\repos\Daily planner\Daily planner\bin\Debug\net8.0-windows\Daily planner.pdb
+C:\Users\yaney\source\repos\Daily planner\Daily planner\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\yaney\source\repos\Daily planner\Daily planner\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\yaney\source\repos\Daily planner\Daily planner\obj\Debug\net8.0-windows\Daily planner_MarkupCompile.cache
+C:\Users\yaney\source\repos\Daily planner\Daily planner\obj\Debug\net8.0-windows\Daily planner_MarkupCompile.lref
+C:\Users\yaney\source\repos\Daily planner\Daily planner\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Users\yaney\source\repos\Daily planner\Daily planner\obj\Debug\net8.0-windows\Daily planner.g.resources
+C:\Users\yaney\source\repos\Daily planner\Daily planner\obj\Debug\net8.0-windows\Daily planner.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yaney\source\repos\Daily planner\Daily planner\obj\Debug\net8.0-windows\Daily planner.AssemblyInfoInputs.cache
+C:\Users\yaney\source\repos\Daily planner\Daily planner\obj\Debug\net8.0-windows\Daily planner.AssemblyInfo.cs
+C:\Users\yaney\source\repos\Daily planner\Daily planner\obj\Debug\net8.0-windows\Daily planner.csproj.CoreCompileInputs.cache
+C:\Users\yaney\source\repos\Daily planner\Daily planner\obj\Debug\net8.0-windows\Daily planner.dll
+C:\Users\yaney\source\repos\Daily planner\Daily planner\obj\Debug\net8.0-windows\refint\Daily planner.dll
+C:\Users\yaney\source\repos\Daily planner\Daily planner\obj\Debug\net8.0-windows\Daily planner.pdb
+C:\Users\yaney\source\repos\Daily planner\Daily planner\obj\Debug\net8.0-windows\Daily planner.genruntimeconfig.cache
+C:\Users\yaney\source\repos\Daily planner\Daily planner\obj\Debug\net8.0-windows\ref\Daily planner.dll
+C:\Users\yaney\source\repos\Daily planner\Daily planner\bin\Debug\net8.0-windows\Newtonsoft.Json.dll
+C:\Users\yaney\source\repos\Daily planner\Daily planner\obj\Debug\net8.0-windows\Daily planner.csproj.AssemblyReference.cache
+C:\Users\yaney\source\repos\Daily planner\Daily planner\obj\Debug\net8.0-windows\Daily planner.csproj.CopyComplete

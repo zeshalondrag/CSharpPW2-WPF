@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "EJmo56siHaa7nENNBwsAWBCiObFTFLkRVk5klJlU25JWajNXsuRrd1tYfCoYvHn48az7qXZujO1iSMbA1zWwDg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\yaney\\source\\repos\\Daily planner\\Daily planner\\Daily planner.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\yaney\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
